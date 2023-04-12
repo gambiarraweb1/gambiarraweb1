@@ -5,7 +5,7 @@
 ##
 
 <div>
-  <a href="https://beacons.ai/Gambiarraweb1">
+  <a href="https://github.com/gambiarraweb1">
   <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Gambiarraweb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
